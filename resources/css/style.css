@@ -2,6 +2,7 @@ html{
   font-family: verdana;
   background-color: Black;
   text-align: center;
+  font-weight: normal;
 }
 body{
   display: block;
@@ -29,4 +30,7 @@ p{
 img.camp{
   width: 896;
   height: 527;
+}
+.footer{
+  text-align: right;
 }
